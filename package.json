@@ -38,7 +38,7 @@
     "base-cli-process": "^0.1.18",
     "base-config-process": "^0.1.9",
     "base-generators": "^0.4.5",
-    "base-questions": "^0.7.3",
+    "base-questions": "^0.9.1",
     "base-runtimes": "^0.2.0",
     "base-store": "^0.4.4",
     "common-config": "^0.1.0",
