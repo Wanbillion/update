@@ -52,7 +52,7 @@
     "is-valid-app": "^0.2.0",
     "isobject": "^2.1.0",
     "lazy-cache": "^2.0.1",
-    "log-utils": "^0.2.1",
+    "log-utils": "^0.3.0",
     "parser-front-matter": "^1.4.1",
     "resolve-dir": "^0.1.0",
     "resolve-file": "^0.2.0",
